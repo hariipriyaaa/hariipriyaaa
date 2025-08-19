@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I’m an aspiring Software Engineer and AI enthusiast, currently pursuing my B.Tech at PES University.<br><br>Every day, I challenge myself with Data Structures & Algorithms, exploring new problem patterns and sharpening my logical thinking.<br><br>My curiosity drives me toward AI/ML projects, where I aim to experiment, learn, and contribute to building intelligent solutions that make a difference.
 
 
